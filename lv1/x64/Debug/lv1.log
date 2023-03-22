@@ -1,0 +1,8 @@
+﻿  binarno_pret.cpp
+C:\Users\Lovric\source\repos\lv1\lv1\binarno_pret.cpp(43,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lovric\source\repos\lv1\lv1\binarno_pret.cpp(47,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lovric\source\repos\lv1\lv1\binarno_pret.cpp(60,12): warning C4477: 'printf' : format string '% ld' requires an argument of type 'long', but variadic argument 1 has type 'time_t'
+C:\Users\Lovric\source\repos\lv1\lv1\binarno_pret.cpp(60,12): message : consider using '%lld' in the format string
+C:\Users\Lovric\source\repos\lv1\lv1\binarno_pret.cpp(60,12): message : consider using '%Id' in the format string
+C:\Users\Lovric\source\repos\lv1\lv1\binarno_pret.cpp(60,12): message : consider using '%I64d' in the format string
+  lv1.vcxproj -> C:\Users\Lovric\source\repos\lv1\x64\Debug\lv1.exe
